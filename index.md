@@ -23,3 +23,8 @@
 *<sup>1</sup>10% chance it'll come back to you*\
 *<sup>2</sup>50% chance it won't work*\
 *<sup>3</sup>20% chance it'll come back to you*
+
+## Creators
+| Model 	| Can create<br>URDN Stacks 	|
+|:-----:	|:-------------------------:	|
+|   C1  	|             ✓             	|
