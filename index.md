@@ -2,6 +2,7 @@
 
 
 ## Portals
+
 | Model 	| Can send stuff 	| Opposite portals<br>can destroy items 	| Can send to<br>multiple people 	|
 |:-----:	|:--------------:	|:-------------------------------------:	|:------------------------------:	|
 |   P1  	|        ✓       	|                   ✗                   	|                ✗               	|
@@ -12,6 +13,7 @@
 *\*Cannot teleport URDN items*
 
 ## Portal Enhancers
+
 | Model 	| Used with 	| Blocks<br>Counter Portal 	| Reflects effect<br>back to sender 	| Can create<br>URDN stacks 	| Can cleanse<br>50% CP 	| Can Double<br>URDN Stacks 	|
 |:-----:	|:---------:	|:------------------------:	|:---------------------------------:	|:-------------------------:	|:---------------------:	|:-------------------------:	|
 |   PE  	|   P1, P2  	|             ✓            	|                 ✗                 	|             ✗             	|           ✗           	|             ✗             	|
@@ -25,6 +27,7 @@
 *<sup>3</sup>20% chance it'll come back to you*
 
 ## Creators
+
 | Model 	| Can create<br>URDN Stacks 	|
 |:-----:	|:-------------------------:	|
 |   C1  	|             ✓             	|
