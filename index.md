@@ -21,7 +21,7 @@
 |  P3E2 	|     P3    	|             ✓            	|           ✓<sup>1</sup>           	|             ✗             	|           ✗           	|             ✗             	|
 |  P4E  	|     P4    	|             ✓            	|                 ✗                 	|             ✓             	|     ✓     	|             ✗             	|
 
-*<sup>1</sup>Effect will disappear if sender replies with the same image*\
+*<sup>1</sup>Effect will disappear if sender replies with the same image*
 
 ## Creators
 
